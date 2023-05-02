@@ -1,3 +1,7 @@
+# 请各位移步到原作者大大的新仓库 biuuu/star-rail-warp-export
+
+这个只是我个人实验探索时的一个 fork 版本，长期稳定使用的话还请使用原作者的建好的星穹铁道版本 https://github.com/biuuu/star-rail-warp-export
+
 # 原神祈愿记录导出工具
 
 中文 | [English](https://github.com/biuuu/genshin-wish-export/blob/main/docs/README_EN.md)
